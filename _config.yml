@@ -1,1 +1,12 @@
+# Site settings
+title: Huy D. Tran
+email: huytr225@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Huy Tran's website.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://huytr225.github.io" # the base hostname & protocol for your site
+future: true # allows future dated posts
+jobtitle: "Software Developer"
+
+#Theme
 theme: jekyll-theme-minimal
